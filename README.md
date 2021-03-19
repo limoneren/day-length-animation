@@ -12,8 +12,8 @@ pip install -r requirements.txt
 
 ### Running
 
-Then go to https://www.sunrise-and-sunset.com/sv/sun/turkiet/istanbul/2019/ and choose the city you want the animation of. 
-Pay attention to the country and city names as they are in Swedish. Preferrably, choose the country and city name by navigating in the website, not replace in the url.
+Then go to https://www.sunrise-and-sunset.com/en/sun/turkey/istanbul/2019/ and choose the city you want the animation of. 
+Preferrably, choose the country and city name by navigating in the website, not replace in the url.
 
 Then run it with url argument
 
